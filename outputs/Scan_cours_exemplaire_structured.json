@@ -1,0 +1,1387 @@
+{
+  "metadata": {
+    "source_file": "Scan_cours_exemplaire.pdf",
+    "extraction_date": "2026-05-18T08:13:12.011936",
+    "pages_processed": 1,
+    "ocr_language": "eng",
+    "date_range": {
+      "start": "2026-04-20",
+      "end": "2026-04-24",
+      "count": 5
+    },
+    "currencies_found": 62,
+    "total_rates": 151
+  },
+  "dates": [
+    "2026-04-20",
+    "2026-04-21",
+    "2026-04-22",
+    "2026-04-23",
+    "2026-04-24"
+  ],
+  "currencies": {
+    "NKY": {
+      "country": "BA",
+      "rates": {}
+    },
+    "ION": {
+      "country": "DIRECT",
+      "rates": {}
+    },
+    "QUE": {
+      "country": "DE LA POLITI",
+      "rates": {
+        "2026-04-24": 200.35,
+        "2026-04-23": 200.39
+      }
+    },
+    "URS": {
+      "country": "CO",
+      "rates": {
+        "2026-04-23": 20042026.0
+      }
+    },
+    "EUR": {
+      "country": "COMMUNAUTE",
+      "rates": {
+        "2026-04-23": 136.24,
+        "2026-04-24": 4.0,
+        "2026-04-22": 4.0
+      }
+    },
+    "NIS": {
+      "country": "ETATS-U",
+      "rates": {
+        "2026-04-22": 4.0,
+        "2026-04-23": 136.24,
+        "2026-04-24": 4.0
+      }
+    },
+    "GBP": {
+      "country": "GRANDE BRETAGNE LIVRE Sterling",
+      "rates": {}
+    },
+    "UTE": {
+      "country": "COMMUNA",
+      "rates": {}
+    },
+    "PON": {
+      "country": "Ha",
+      "rates": {
+        "2026-04-22": 3021.25,
+        "2026-04-23": 3020.45,
+        "2026-04-24": 3029.39
+      }
+    },
+    "ADA": {
+      "country": "CAN",
+      "rates": {
+        "2026-04-22": 651.38,
+        "2026-04-23": 649.96,
+        "2026-04-24": 647.91
+      }
+    },
+    "DKK": {
+      "country": "DANEMAARK COURONNE",
+      "rates": {
+        "2026-04-20": 651.19
+      }
+    },
+    "NOK": {
+      "country": "COURONNE",
+      "rates": {
+        "2026-04-20": 443.82,
+        "2026-04-21": 443.97,
+        "2026-04-22": 445.68
+      }
+    },
+    "EGE": {
+      "country": "NORV",
+      "rates": {
+        "2026-04-20": 452.97,
+        "2026-04-21": 450.92,
+        "2026-04-22": 449.14,
+        "2026-04-23": 448.38
+      }
+    },
+    "SEK": {
+      "country": "SUEDE COURONNE",
+      "rates": {
+        "2026-04-21": 23.25,
+        "2026-04-22": 23.28
+      }
+    },
+    "UTI": {
+      "country": "DJIBO",
+      "rates": {
+        "2026-04-22": 23.23
+      }
+    },
+    "XDR": {
+      "country": "FMI DTS",
+      "rates": {
+        "2026-04-20": 5.0,
+        "2026-04-21": 682.99,
+        "2026-04-22": 5.0,
+        "2026-04-23": 681.49,
+        "2026-04-24": 5.0
+      }
+    },
+    "ICE": {
+      "country": "MAUR",
+      "rates": {
+        "2026-04-22": 89.12,
+        "2026-04-23": 89.21,
+        "2026-04-24": 8.95
+      }
+    },
+    "LIE": {
+      "country": "AUSTRA",
+      "rates": {
+        "2026-04-22": 2961.75,
+        "2026-04-23": 2964.07,
+        "2026-04-24": 2961.56
+      }
+    },
+    "ONG": {
+      "country": "H",
+      "rates": {
+        "2026-04-23": 528.12,
+        "2026-04-24": 528.3
+      }
+    },
+    "OUR": {
+      "country": "SINGAP",
+      "rates": {
+        "2026-04-22": 3254.19,
+        "2026-04-23": 3253.92,
+        "2026-04-24": 3.0
+      }
+    },
+    "LLE": {
+      "country": "NOUVE",
+      "rates": {
+        "2026-04-23": 2432.94,
+        "2026-04-24": 2445.51
+      }
+    },
+    "ATS": {
+      "country": "EMIR",
+      "rates": {
+        "2026-04-24": 1.0
+      }
+    },
+    "TAN": {
+      "country": "AFGHANIS",
+      "rates": {
+        "2026-04-22": 44.44,
+        "2026-04-23": 44.24,
+        "2026-04-24": 44.12
+      }
+    },
+    "NIE": {
+      "country": "ALBA",
+      "rates": {
+        "2026-04-22": 50.95,
+        "2026-04-23": 2482.29,
+        "2026-04-24": 2482.67
+      }
+    },
+    "LES": {
+      "country": "ANTIL",
+      "rates": {
+        "2026-04-23": 2295.04,
+        "2026-04-24": 2295.39
+      }
+    },
+    "OLA": {
+      "country": "ANG",
+      "rates": {
+        "2026-04-22": 4.5,
+        "2026-04-23": 4.49,
+        "2026-04-24": 4.49
+      }
+    },
+    "INE": {
+      "country": "ARGENT",
+      "rates": {
+        "2026-04-22": 3.03,
+        "2026-04-23": 68.67,
+        "2026-04-24": 68.74
+      }
+    },
+    "UBA": {
+      "country": "AR",
+      "rates": {
+        "2026-04-22": 4.0,
+        "2026-04-23": 136.24,
+        "2026-04-24": 4.0
+      }
+    },
+    "ADE": {
+      "country": "BARB",
+      "rates": {
+        "2026-04-22": 2053.64,
+        "2026-04-23": 2053.95,
+        "2026-04-24": 2054.51
+      }
+    },
+    "ESH": {
+      "country": "BANGLAD",
+      "rates": {
+        "2026-04-22": 33.71,
+        "2026-04-23": 33.72,
+        "2026-04-24": 33.72
+      }
+    },
+    "RIE": {
+      "country": "BULGA",
+      "rates": {
+        "2026-04-22": 13.44,
+        "2026-04-23": 13.44,
+        "2026-04-24": 13.32
+      }
+    },
+    "EIN": {
+      "country": "BAHR",
+      "rates": {
+        "2026-04-22": 10.0,
+        "2026-04-23": 967.1,
+        "2026-04-24": 10.0
+      }
+    },
+    "NDI": {
+      "country": "BURU",
+      "rates": {
+        "2026-04-22": 1.39,
+        "2026-04-23": 1.39,
+        "2026-04-24": 1.39
+      }
+    },
+    "DES": {
+      "country": "BERMU",
+      "rates": {
+        "2026-04-22": 4.0,
+        "2026-04-23": 136.24,
+        "2026-04-24": 413687.0
+      }
+    },
+    "NEI": {
+      "country": "BRU",
+      "rates": {
+        "2026-04-22": 3.0,
+        "2026-04-23": 254.19
+      }
+    },
+    "VIE": {
+      "country": "BOLI",
+      "rates": {
+        "2026-04-22": 597.29,
+        "2026-04-23": 598.68,
+        "2026-04-24": 598.84
+      }
+    },
+    "SIL": {
+      "country": "BRE",
+      "rates": {
+        "2026-04-22": 830.45,
+        "2026-04-23": 835.08,
+        "2026-04-24": 833.35
+      }
+    },
+    "MAS": {
+      "country": "BAHA",
+      "rates": {
+        "2026-04-22": 4.0,
+        "2026-04-23": 136.24,
+        "2026-04-24": 4.0
+      }
+    },
+    "ANA": {
+      "country": "BOTSW",
+      "rates": {
+        "2026-04-22": 373.81,
+        "2026-04-23": 373.87,
+        "2026-04-24": 373.63
+      }
+    },
+    "SIE": {
+      "country": "BIELORU",
+      "rates": {
+        "2026-04-22": 0.24,
+        "2026-04-23": 0.24,
+        "2026-04-24": 0.24
+      }
+    },
+    "IZE": {
+      "country": "BEL",
+      "rates": {
+        "2026-04-22": 2.0,
+        "2026-04-23": 56.6,
+        "2026-04-24": 2056.92
+      }
+    },
+    "NGO": {
+      "country": "CO",
+      "rates": {
+        "2026-04-24": 1.78
+      }
+    },
+    "ILI": {
+      "country": "CH",
+      "rates": {
+        "2026-04-23": 4.7,
+        "2026-04-24": 4.69
+      }
+    },
+    "BIE": {
+      "country": "COLOM",
+      "rates": {
+        "2026-04-22": 55.76,
+        "2026-04-23": 55.77,
+        "2026-04-24": 55.79
+      }
+    },
+    "STA": {
+      "country": "CO",
+      "rates": {
+        "2026-04-23": 9.08,
+        "2026-04-24": 9.09
+      }
+    },
+    "CAP": {
+      "country": "",
+      "rates": {}
+    },
+    "PRE": {
+      "country": "CHY",
+      "rates": {}
+    },
+    "PTE": {
+      "country": "EGY",
+      "rates": {
+        "2026-04-22": 79.54,
+        "2026-04-23": 79.88,
+        "2026-04-24": 79.58
+      }
+    },
+    "REE": {
+      "country": "ERYTH",
+      "rates": {
+        "2026-04-22": 274.38,
+        "2026-04-23": 274.42,
+        "2026-04-24": 274.49
+      }
+    },
+    "PIE": {
+      "country": "ETHIO",
+      "rates": {
+        "2026-04-23": 26.29,
+        "2026-04-24": 26.49
+      }
+    },
+    "DJI": {
+      "country": "FI",
+      "rates": {
+        "2026-04-22": 1.0,
+        "2026-04-23": 858.83,
+        "2026-04-24": 1.0
+      }
+    },
+    "AND": {
+      "country": "FALKL",
+      "rates": {
+        "2026-04-22": 5.0,
+        "2026-04-23": 500.34,
+        "2026-04-24": 5.0
+      }
+    },
+    "TAR": {
+      "country": "GIBRAL",
+      "rates": {
+        "2026-04-22": 5.0,
+        "2026-04-23": 500.34,
+        "2026-04-24": 5.0
+      }
+    },
+    "NEE": {
+      "country": "GUI",
+      "rates": {
+        "2026-04-22": 47.0,
+        "2026-04-23": 0.47,
+        "2026-04-24": 47.0
+      }
+    },
+    "ALA": {
+      "country": "GUATEM",
+      "rates": {
+        "2026-04-22": 541.04,
+        "2026-04-23": 541.26,
+        "2026-04-24": 541.41
+      }
+    },
+    "ANE": {
+      "country": "GUY",
+      "rates": {
+        "2026-04-22": 19.77,
+        "2026-04-23": 19.77,
+        "2026-04-24": 19.78
+      }
+    },
+    "RAS": {
+      "country": "HONDU",
+      "rates": {
+        "2026-04-22": 155.67,
+        "2026-04-23": 155.71,
+        "2026-04-24": 155.75
+      }
+    },
+    "TIE": {
+      "country": "CROA",
+      "rates": {
+        "2026-04-22": 587.35,
+        "2026-04-23": 587.44,
+        "2026-04-24": 567.6
+      }
+    },
+    "ITI": {
+      "country": "HA",
+      "rates": {
+        "2026-04-22": 31.66,
+        "2026-04-23": 31.64,
+        "2026-04-24": 31.62
+      }
+    },
+    "AEL": {
+      "country": "ISR",
+      "rates": {
+        "2026-04-23": 1.0,
+        "2026-04-24": 381.42
+      }
+    },
+    "NDE": {
+      "country": "I",
+      "rates": {
+        "2026-04-22": 44.44,
+        "2026-04-23": 44.24,
+        "2026-04-24": 44.12
+      }
+    },
+    "RAQ": {
+      "country": "I",
+      "rates": {
+        "2026-04-22": 3.16,
+        "2026-04-23": 3.16,
+        "2026-04-24": 3.16
+      }
+    }
+  },
+  "rates": [
+    {
+      "date": "2026-04-20",
+      "country": "DANEMAARK COURONNE",
+      "currency_code": "DKK",
+      "exchange_rate": 651.19
+    },
+    {
+      "date": "2026-04-20",
+      "country": "COURONNE",
+      "currency_code": "NOK",
+      "exchange_rate": 443.82
+    },
+    {
+      "date": "2026-04-20",
+      "country": "NORV",
+      "currency_code": "EGE",
+      "exchange_rate": 452.97
+    },
+    {
+      "date": "2026-04-20",
+      "country": "FMI DTS",
+      "currency_code": "XDR",
+      "exchange_rate": 5.0
+    },
+    {
+      "date": "2026-04-21",
+      "country": "COURONNE",
+      "currency_code": "NOK",
+      "exchange_rate": 443.97
+    },
+    {
+      "date": "2026-04-21",
+      "country": "NORV",
+      "currency_code": "EGE",
+      "exchange_rate": 450.92
+    },
+    {
+      "date": "2026-04-21",
+      "country": "SUEDE COURONNE",
+      "currency_code": "SEK",
+      "exchange_rate": 23.25
+    },
+    {
+      "date": "2026-04-21",
+      "country": "FMI DTS",
+      "currency_code": "XDR",
+      "exchange_rate": 682.99
+    },
+    {
+      "date": "2026-04-22",
+      "country": "COMMUNAUTE",
+      "currency_code": "EUR",
+      "exchange_rate": 4.0
+    },
+    {
+      "date": "2026-04-22",
+      "country": "ETATS-U",
+      "currency_code": "NIS",
+      "exchange_rate": 4.0
+    },
+    {
+      "date": "2026-04-22",
+      "country": "Ha",
+      "currency_code": "PON",
+      "exchange_rate": 3021.25
+    },
+    {
+      "date": "2026-04-22",
+      "country": "CAN",
+      "currency_code": "ADA",
+      "exchange_rate": 651.38
+    },
+    {
+      "date": "2026-04-22",
+      "country": "COURONNE",
+      "currency_code": "NOK",
+      "exchange_rate": 445.68
+    },
+    {
+      "date": "2026-04-22",
+      "country": "NORV",
+      "currency_code": "EGE",
+      "exchange_rate": 449.14
+    },
+    {
+      "date": "2026-04-22",
+      "country": "SUEDE COURONNE",
+      "currency_code": "SEK",
+      "exchange_rate": 23.28
+    },
+    {
+      "date": "2026-04-22",
+      "country": "DJIBO",
+      "currency_code": "UTI",
+      "exchange_rate": 23.23
+    },
+    {
+      "date": "2026-04-22",
+      "country": "FMI DTS",
+      "currency_code": "XDR",
+      "exchange_rate": 5.0
+    },
+    {
+      "date": "2026-04-22",
+      "country": "MAUR",
+      "currency_code": "ICE",
+      "exchange_rate": 89.12
+    },
+    {
+      "date": "2026-04-22",
+      "country": "AUSTRA",
+      "currency_code": "LIE",
+      "exchange_rate": 2961.75
+    },
+    {
+      "date": "2026-04-22",
+      "country": "SINGAP",
+      "currency_code": "OUR",
+      "exchange_rate": 3254.19
+    },
+    {
+      "date": "2026-04-22",
+      "country": "AFGHANIS",
+      "currency_code": "TAN",
+      "exchange_rate": 44.44
+    },
+    {
+      "date": "2026-04-22",
+      "country": "ALBA",
+      "currency_code": "NIE",
+      "exchange_rate": 50.95
+    },
+    {
+      "date": "2026-04-22",
+      "country": "ANG",
+      "currency_code": "OLA",
+      "exchange_rate": 4.5
+    },
+    {
+      "date": "2026-04-22",
+      "country": "ARGENT",
+      "currency_code": "INE",
+      "exchange_rate": 3.03
+    },
+    {
+      "date": "2026-04-22",
+      "country": "AR",
+      "currency_code": "UBA",
+      "exchange_rate": 4.0
+    },
+    {
+      "date": "2026-04-22",
+      "country": "BARB",
+      "currency_code": "ADE",
+      "exchange_rate": 2053.64
+    },
+    {
+      "date": "2026-04-22",
+      "country": "BANGLAD",
+      "currency_code": "ESH",
+      "exchange_rate": 33.71
+    },
+    {
+      "date": "2026-04-22",
+      "country": "BULGA",
+      "currency_code": "RIE",
+      "exchange_rate": 13.44
+    },
+    {
+      "date": "2026-04-22",
+      "country": "BAHR",
+      "currency_code": "EIN",
+      "exchange_rate": 10.0
+    },
+    {
+      "date": "2026-04-22",
+      "country": "BURU",
+      "currency_code": "NDI",
+      "exchange_rate": 1.39
+    },
+    {
+      "date": "2026-04-22",
+      "country": "BERMU",
+      "currency_code": "DES",
+      "exchange_rate": 4.0
+    },
+    {
+      "date": "2026-04-22",
+      "country": "BRU",
+      "currency_code": "NEI",
+      "exchange_rate": 3.0
+    },
+    {
+      "date": "2026-04-22",
+      "country": "BOLI",
+      "currency_code": "VIE",
+      "exchange_rate": 597.29
+    },
+    {
+      "date": "2026-04-22",
+      "country": "BRE",
+      "currency_code": "SIL",
+      "exchange_rate": 830.45
+    },
+    {
+      "date": "2026-04-22",
+      "country": "BAHA",
+      "currency_code": "MAS",
+      "exchange_rate": 4.0
+    },
+    {
+      "date": "2026-04-22",
+      "country": "BOTSW",
+      "currency_code": "ANA",
+      "exchange_rate": 373.81
+    },
+    {
+      "date": "2026-04-22",
+      "country": "BIELORU",
+      "currency_code": "SIE",
+      "exchange_rate": 0.24
+    },
+    {
+      "date": "2026-04-22",
+      "country": "BEL",
+      "currency_code": "IZE",
+      "exchange_rate": 2.0
+    },
+    {
+      "date": "2026-04-22",
+      "country": "COLOM",
+      "currency_code": "BIE",
+      "exchange_rate": 55.76
+    },
+    {
+      "date": "2026-04-22",
+      "country": "EGY",
+      "currency_code": "PTE",
+      "exchange_rate": 79.54
+    },
+    {
+      "date": "2026-04-22",
+      "country": "ERYTH",
+      "currency_code": "REE",
+      "exchange_rate": 274.38
+    },
+    {
+      "date": "2026-04-22",
+      "country": "FI",
+      "currency_code": "DJI",
+      "exchange_rate": 1.0
+    },
+    {
+      "date": "2026-04-22",
+      "country": "FALKL",
+      "currency_code": "AND",
+      "exchange_rate": 5.0
+    },
+    {
+      "date": "2026-04-22",
+      "country": "GIBRAL",
+      "currency_code": "TAR",
+      "exchange_rate": 5.0
+    },
+    {
+      "date": "2026-04-22",
+      "country": "GUI",
+      "currency_code": "NEE",
+      "exchange_rate": 47.0
+    },
+    {
+      "date": "2026-04-22",
+      "country": "GUATEM",
+      "currency_code": "ALA",
+      "exchange_rate": 541.04
+    },
+    {
+      "date": "2026-04-22",
+      "country": "GUY",
+      "currency_code": "ANE",
+      "exchange_rate": 19.77
+    },
+    {
+      "date": "2026-04-22",
+      "country": "HONDU",
+      "currency_code": "RAS",
+      "exchange_rate": 155.67
+    },
+    {
+      "date": "2026-04-22",
+      "country": "CROA",
+      "currency_code": "TIE",
+      "exchange_rate": 587.35
+    },
+    {
+      "date": "2026-04-22",
+      "country": "HA",
+      "currency_code": "ITI",
+      "exchange_rate": 31.66
+    },
+    {
+      "date": "2026-04-22",
+      "country": "I",
+      "currency_code": "NDE",
+      "exchange_rate": 44.44
+    },
+    {
+      "date": "2026-04-22",
+      "country": "I",
+      "currency_code": "RAQ",
+      "exchange_rate": 3.16
+    },
+    {
+      "date": "2026-04-23",
+      "country": "DE LA POLITI",
+      "currency_code": "QUE",
+      "exchange_rate": 200.39
+    },
+    {
+      "date": "2026-04-23",
+      "country": "CO",
+      "currency_code": "URS",
+      "exchange_rate": 20042026.0
+    },
+    {
+      "date": "2026-04-23",
+      "country": "COMMUNAUTE",
+      "currency_code": "EUR",
+      "exchange_rate": 136.24
+    },
+    {
+      "date": "2026-04-23",
+      "country": "ETATS-U",
+      "currency_code": "NIS",
+      "exchange_rate": 136.24
+    },
+    {
+      "date": "2026-04-23",
+      "country": "Ha",
+      "currency_code": "PON",
+      "exchange_rate": 3020.45
+    },
+    {
+      "date": "2026-04-23",
+      "country": "CAN",
+      "currency_code": "ADA",
+      "exchange_rate": 649.96
+    },
+    {
+      "date": "2026-04-23",
+      "country": "NORV",
+      "currency_code": "EGE",
+      "exchange_rate": 448.38
+    },
+    {
+      "date": "2026-04-23",
+      "country": "FMI DTS",
+      "currency_code": "XDR",
+      "exchange_rate": 681.49
+    },
+    {
+      "date": "2026-04-23",
+      "country": "MAUR",
+      "currency_code": "ICE",
+      "exchange_rate": 89.21
+    },
+    {
+      "date": "2026-04-23",
+      "country": "AUSTRA",
+      "currency_code": "LIE",
+      "exchange_rate": 2964.07
+    },
+    {
+      "date": "2026-04-23",
+      "country": "H",
+      "currency_code": "ONG",
+      "exchange_rate": 528.12
+    },
+    {
+      "date": "2026-04-23",
+      "country": "SINGAP",
+      "currency_code": "OUR",
+      "exchange_rate": 3253.92
+    },
+    {
+      "date": "2026-04-23",
+      "country": "NOUVE",
+      "currency_code": "LLE",
+      "exchange_rate": 2432.94
+    },
+    {
+      "date": "2026-04-23",
+      "country": "AFGHANIS",
+      "currency_code": "TAN",
+      "exchange_rate": 44.24
+    },
+    {
+      "date": "2026-04-23",
+      "country": "ALBA",
+      "currency_code": "NIE",
+      "exchange_rate": 2482.29
+    },
+    {
+      "date": "2026-04-23",
+      "country": "ANTIL",
+      "currency_code": "LES",
+      "exchange_rate": 2295.04
+    },
+    {
+      "date": "2026-04-23",
+      "country": "ANG",
+      "currency_code": "OLA",
+      "exchange_rate": 4.49
+    },
+    {
+      "date": "2026-04-23",
+      "country": "ARGENT",
+      "currency_code": "INE",
+      "exchange_rate": 68.67
+    },
+    {
+      "date": "2026-04-23",
+      "country": "AR",
+      "currency_code": "UBA",
+      "exchange_rate": 136.24
+    },
+    {
+      "date": "2026-04-23",
+      "country": "BARB",
+      "currency_code": "ADE",
+      "exchange_rate": 2053.95
+    },
+    {
+      "date": "2026-04-23",
+      "country": "BANGLAD",
+      "currency_code": "ESH",
+      "exchange_rate": 33.72
+    },
+    {
+      "date": "2026-04-23",
+      "country": "BULGA",
+      "currency_code": "RIE",
+      "exchange_rate": 13.44
+    },
+    {
+      "date": "2026-04-23",
+      "country": "BAHR",
+      "currency_code": "EIN",
+      "exchange_rate": 967.1
+    },
+    {
+      "date": "2026-04-23",
+      "country": "BURU",
+      "currency_code": "NDI",
+      "exchange_rate": 1.39
+    },
+    {
+      "date": "2026-04-23",
+      "country": "BERMU",
+      "currency_code": "DES",
+      "exchange_rate": 136.24
+    },
+    {
+      "date": "2026-04-23",
+      "country": "BRU",
+      "currency_code": "NEI",
+      "exchange_rate": 254.19
+    },
+    {
+      "date": "2026-04-23",
+      "country": "BOLI",
+      "currency_code": "VIE",
+      "exchange_rate": 598.68
+    },
+    {
+      "date": "2026-04-23",
+      "country": "BRE",
+      "currency_code": "SIL",
+      "exchange_rate": 835.08
+    },
+    {
+      "date": "2026-04-23",
+      "country": "BAHA",
+      "currency_code": "MAS",
+      "exchange_rate": 136.24
+    },
+    {
+      "date": "2026-04-23",
+      "country": "BOTSW",
+      "currency_code": "ANA",
+      "exchange_rate": 373.87
+    },
+    {
+      "date": "2026-04-23",
+      "country": "BIELORU",
+      "currency_code": "SIE",
+      "exchange_rate": 0.24
+    },
+    {
+      "date": "2026-04-23",
+      "country": "BEL",
+      "currency_code": "IZE",
+      "exchange_rate": 56.6
+    },
+    {
+      "date": "2026-04-23",
+      "country": "CH",
+      "currency_code": "ILI",
+      "exchange_rate": 4.7
+    },
+    {
+      "date": "2026-04-23",
+      "country": "COLOM",
+      "currency_code": "BIE",
+      "exchange_rate": 55.77
+    },
+    {
+      "date": "2026-04-23",
+      "country": "CO",
+      "currency_code": "STA",
+      "exchange_rate": 9.08
+    },
+    {
+      "date": "2026-04-23",
+      "country": "EGY",
+      "currency_code": "PTE",
+      "exchange_rate": 79.88
+    },
+    {
+      "date": "2026-04-23",
+      "country": "ERYTH",
+      "currency_code": "REE",
+      "exchange_rate": 274.42
+    },
+    {
+      "date": "2026-04-23",
+      "country": "ETHIO",
+      "currency_code": "PIE",
+      "exchange_rate": 26.29
+    },
+    {
+      "date": "2026-04-23",
+      "country": "FI",
+      "currency_code": "DJI",
+      "exchange_rate": 858.83
+    },
+    {
+      "date": "2026-04-23",
+      "country": "FALKL",
+      "currency_code": "AND",
+      "exchange_rate": 500.34
+    },
+    {
+      "date": "2026-04-23",
+      "country": "GIBRAL",
+      "currency_code": "TAR",
+      "exchange_rate": 500.34
+    },
+    {
+      "date": "2026-04-23",
+      "country": "GUI",
+      "currency_code": "NEE",
+      "exchange_rate": 0.47
+    },
+    {
+      "date": "2026-04-23",
+      "country": "GUATEM",
+      "currency_code": "ALA",
+      "exchange_rate": 541.26
+    },
+    {
+      "date": "2026-04-23",
+      "country": "GUY",
+      "currency_code": "ANE",
+      "exchange_rate": 19.77
+    },
+    {
+      "date": "2026-04-23",
+      "country": "HONDU",
+      "currency_code": "RAS",
+      "exchange_rate": 155.71
+    },
+    {
+      "date": "2026-04-23",
+      "country": "CROA",
+      "currency_code": "TIE",
+      "exchange_rate": 587.44
+    },
+    {
+      "date": "2026-04-23",
+      "country": "HA",
+      "currency_code": "ITI",
+      "exchange_rate": 31.64
+    },
+    {
+      "date": "2026-04-23",
+      "country": "ISR",
+      "currency_code": "AEL",
+      "exchange_rate": 1.0
+    },
+    {
+      "date": "2026-04-23",
+      "country": "I",
+      "currency_code": "NDE",
+      "exchange_rate": 44.24
+    },
+    {
+      "date": "2026-04-23",
+      "country": "I",
+      "currency_code": "RAQ",
+      "exchange_rate": 3.16
+    },
+    {
+      "date": "2026-04-24",
+      "country": "DE LA POLITI",
+      "currency_code": "QUE",
+      "exchange_rate": 200.35
+    },
+    {
+      "date": "2026-04-24",
+      "country": "COMMUNAUTE",
+      "currency_code": "EUR",
+      "exchange_rate": 4.0
+    },
+    {
+      "date": "2026-04-24",
+      "country": "ETATS-U",
+      "currency_code": "NIS",
+      "exchange_rate": 4.0
+    },
+    {
+      "date": "2026-04-24",
+      "country": "Ha",
+      "currency_code": "PON",
+      "exchange_rate": 3029.39
+    },
+    {
+      "date": "2026-04-24",
+      "country": "CAN",
+      "currency_code": "ADA",
+      "exchange_rate": 647.91
+    },
+    {
+      "date": "2026-04-24",
+      "country": "FMI DTS",
+      "currency_code": "XDR",
+      "exchange_rate": 5.0
+    },
+    {
+      "date": "2026-04-24",
+      "country": "MAUR",
+      "currency_code": "ICE",
+      "exchange_rate": 8.95
+    },
+    {
+      "date": "2026-04-24",
+      "country": "AUSTRA",
+      "currency_code": "LIE",
+      "exchange_rate": 2961.56
+    },
+    {
+      "date": "2026-04-24",
+      "country": "H",
+      "currency_code": "ONG",
+      "exchange_rate": 528.3
+    },
+    {
+      "date": "2026-04-24",
+      "country": "SINGAP",
+      "currency_code": "OUR",
+      "exchange_rate": 3.0
+    },
+    {
+      "date": "2026-04-24",
+      "country": "NOUVE",
+      "currency_code": "LLE",
+      "exchange_rate": 2445.51
+    },
+    {
+      "date": "2026-04-24",
+      "country": "EMIR",
+      "currency_code": "ATS",
+      "exchange_rate": 1.0
+    },
+    {
+      "date": "2026-04-24",
+      "country": "AFGHANIS",
+      "currency_code": "TAN",
+      "exchange_rate": 44.12
+    },
+    {
+      "date": "2026-04-24",
+      "country": "ALBA",
+      "currency_code": "NIE",
+      "exchange_rate": 2482.67
+    },
+    {
+      "date": "2026-04-24",
+      "country": "ANTIL",
+      "currency_code": "LES",
+      "exchange_rate": 2295.39
+    },
+    {
+      "date": "2026-04-24",
+      "country": "ANG",
+      "currency_code": "OLA",
+      "exchange_rate": 4.49
+    },
+    {
+      "date": "2026-04-24",
+      "country": "ARGENT",
+      "currency_code": "INE",
+      "exchange_rate": 68.74
+    },
+    {
+      "date": "2026-04-24",
+      "country": "AR",
+      "currency_code": "UBA",
+      "exchange_rate": 4.0
+    },
+    {
+      "date": "2026-04-24",
+      "country": "BARB",
+      "currency_code": "ADE",
+      "exchange_rate": 2054.51
+    },
+    {
+      "date": "2026-04-24",
+      "country": "BANGLAD",
+      "currency_code": "ESH",
+      "exchange_rate": 33.72
+    },
+    {
+      "date": "2026-04-24",
+      "country": "BULGA",
+      "currency_code": "RIE",
+      "exchange_rate": 13.32
+    },
+    {
+      "date": "2026-04-24",
+      "country": "BAHR",
+      "currency_code": "EIN",
+      "exchange_rate": 10.0
+    },
+    {
+      "date": "2026-04-24",
+      "country": "BURU",
+      "currency_code": "NDI",
+      "exchange_rate": 1.39
+    },
+    {
+      "date": "2026-04-24",
+      "country": "BERMU",
+      "currency_code": "DES",
+      "exchange_rate": 413687.0
+    },
+    {
+      "date": "2026-04-24",
+      "country": "BOLI",
+      "currency_code": "VIE",
+      "exchange_rate": 598.84
+    },
+    {
+      "date": "2026-04-24",
+      "country": "BRE",
+      "currency_code": "SIL",
+      "exchange_rate": 833.35
+    },
+    {
+      "date": "2026-04-24",
+      "country": "BAHA",
+      "currency_code": "MAS",
+      "exchange_rate": 4.0
+    },
+    {
+      "date": "2026-04-24",
+      "country": "BOTSW",
+      "currency_code": "ANA",
+      "exchange_rate": 373.63
+    },
+    {
+      "date": "2026-04-24",
+      "country": "BIELORU",
+      "currency_code": "SIE",
+      "exchange_rate": 0.24
+    },
+    {
+      "date": "2026-04-24",
+      "country": "BEL",
+      "currency_code": "IZE",
+      "exchange_rate": 2056.92
+    },
+    {
+      "date": "2026-04-24",
+      "country": "CO",
+      "currency_code": "NGO",
+      "exchange_rate": 1.78
+    },
+    {
+      "date": "2026-04-24",
+      "country": "CH",
+      "currency_code": "ILI",
+      "exchange_rate": 4.69
+    },
+    {
+      "date": "2026-04-24",
+      "country": "COLOM",
+      "currency_code": "BIE",
+      "exchange_rate": 55.79
+    },
+    {
+      "date": "2026-04-24",
+      "country": "CO",
+      "currency_code": "STA",
+      "exchange_rate": 9.09
+    },
+    {
+      "date": "2026-04-24",
+      "country": "EGY",
+      "currency_code": "PTE",
+      "exchange_rate": 79.58
+    },
+    {
+      "date": "2026-04-24",
+      "country": "ERYTH",
+      "currency_code": "REE",
+      "exchange_rate": 274.49
+    },
+    {
+      "date": "2026-04-24",
+      "country": "ETHIO",
+      "currency_code": "PIE",
+      "exchange_rate": 26.49
+    },
+    {
+      "date": "2026-04-24",
+      "country": "FI",
+      "currency_code": "DJI",
+      "exchange_rate": 1.0
+    },
+    {
+      "date": "2026-04-24",
+      "country": "FALKL",
+      "currency_code": "AND",
+      "exchange_rate": 5.0
+    },
+    {
+      "date": "2026-04-24",
+      "country": "GIBRAL",
+      "currency_code": "TAR",
+      "exchange_rate": 5.0
+    },
+    {
+      "date": "2026-04-24",
+      "country": "GUI",
+      "currency_code": "NEE",
+      "exchange_rate": 47.0
+    },
+    {
+      "date": "2026-04-24",
+      "country": "GUATEM",
+      "currency_code": "ALA",
+      "exchange_rate": 541.41
+    },
+    {
+      "date": "2026-04-24",
+      "country": "GUY",
+      "currency_code": "ANE",
+      "exchange_rate": 19.78
+    },
+    {
+      "date": "2026-04-24",
+      "country": "HONDU",
+      "currency_code": "RAS",
+      "exchange_rate": 155.75
+    },
+    {
+      "date": "2026-04-24",
+      "country": "CROA",
+      "currency_code": "TIE",
+      "exchange_rate": 567.6
+    },
+    {
+      "date": "2026-04-24",
+      "country": "HA",
+      "currency_code": "ITI",
+      "exchange_rate": 31.62
+    },
+    {
+      "date": "2026-04-24",
+      "country": "ISR",
+      "currency_code": "AEL",
+      "exchange_rate": 381.42
+    },
+    {
+      "date": "2026-04-24",
+      "country": "I",
+      "currency_code": "NDE",
+      "exchange_rate": 44.12
+    },
+    {
+      "date": "2026-04-24",
+      "country": "I",
+      "currency_code": "RAQ",
+      "exchange_rate": 3.16
+    }
+  ]
+}

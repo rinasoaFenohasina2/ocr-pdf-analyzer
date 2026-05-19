@@ -1,0 +1,55 @@
+"total_pages": 2,
+    "pages": [
+        {
+            "page": 1,
+            "text": "vs\n\nN\nFADINTSERANANA\n
+            MINISTERE DE L’ECONOMIE ET DES FINANCES 1820\n\n
+            SECRETARIAT GENERAL Antananarivo, le\nDIRECTION GENERALE DES DOUANES\n
+            DIRECTION DE LA LEGISLATION\nET DE LA VALEUR\n\nAVIS AU PUBLIC\n\n
+            Cellule de Décision Anticipées et Tarif\n\nN° OZ3 -2022/MEF/SG/DGD/DLV/CDAT\n\n
+            Objet: Regroupement tarifaire et dédouanement des éléments distincts formant une unité\n
+            fonctionnelle.\n\nFace à l’accroissement des délocalisations des entreprises et le développement du\n
+            commerce, il a été constaté que les éléments distincts d’une machine ou d’une combinaison de\n
+            machines sont fabriqués par des entreprises différentes situées dans des localisations\n
+            géographiques différentes, alors qu'ils sont conçus pour assurer concurremment une fonction\n
+            bien déterminée.\n\nIl s’agit de machines et de combinaison de machines nécessaires à la réalisation d'une\n
+            fonction propre qui est celle de l’ensemble constituant l’unité fonctionnelle, à l’exclusion des\n
+            machines ou appareils ayant des fonctions auxiliaires et ne concourant pas à la fonction de\n
+            l’ensemble ainsi que les pièces de rechange importés avec l’unité fonctionnelle qui doivent\n
+            Être déclaré suivant leur propre régime.\n\n
+            Dans la pratique, ces divers éléments d’une unité fonctionnelle peuvent être importés\n
+            séparément et afin de préserver l’esprit de l’unité fonctionnelle, les éléments distincts constituant\n
+            la machine sont autorisés à être classés dans la position tarifaire correspondante à la fonction\n
+            principale qu’ils assurent même s’ils sont importés via différents pays et ne sont pas présentés en\n
+            même temps au moment du dédouanement (sous réserve toutefois des dispositions contraires et\n\n
+            des exclusions des Notes Explicatives du Système Harmonisé ou NESH).\n\n
+            À titre d'exemple, constituent des unités fonctionnelles de ce genre les systèmes\n
+            hydrauliques composés d'un agrégat hydraulique (comprenant essentiellement une pompe\n
+            hydraulique, un moteur électrique, un dispositif de commande à soupapes et un réservoir d'huile),\n
+            de cylindres hydrauliques et de tubes ou tuyaux nécessaires pour le raccordement des cylindres à\n
+            l’agrégat hydraulique (N°84.12).\n\n
+            De plus, les Notes Explicatives du Système Harmonisé (NESH) de la section XVI-$8 VII\n
+            (Note 4 de la Section-Page XVI-7) stipulent que : «.le fait que pour des raisons de commodité\n
+            par exemple, ces éléments soient séparés ou reliés entre eux par des conduite (d'air, de gaz\n
+            comprimé, d'huile, etc), des dispositifs de transmission, des câbles électriques ou autre\n
+            aménagement, ne s'oppose pas au classement de l'ensemble dans la position correspondant à la\n
+            fonction qu’il assure»\n"
+        },
+        {
+            "page": 2,
+            "text": "Par ailleurs, afin d’assurer le contrôle efficace auprès du bureau de dédouanement et la\n
+            vérification a posteriori par le Service de la Lutte contre la Fraude, 1’ importateur est tenu de\n
+            produire les pièces suivantes :\n\n- 
+            Attestation de destination certifiant que les éléments importés sous divers envois\n
+            sont compatibles et conçus pour assurer concurremment une fonction bien\ndéterminée:;\n\n- 
+            Schéma de montage de l'unité venant du fournisseur permettant de localiser tous les\néléments constitutifs:\n\n- 
+            Fiches techniques venant du fournisseur relatives à l'unité fonctionnelle;\n\n- Bon de commande;\n\n-  Facture.\n\n- 
+            Connaissement\n\n- Certificat d’origine (facultatif)\n\n-  Colisage.\n\n
+            L'octroi de la décision de regroupement tarifaire des éléments distincts formant une\n
+            unité fonctionnelle relève de la compétence de la Direction de la Législation et de la Valeur.\n\n
+            À cet égard, un délai de six (06) mois à compter du 1er dédouanement d’un élément de\n
+            l’unité fonctionnelle est accordé à 1’importateur pour finaliser l’ensemble des opérations de\n
+            dédouanement auprès du bureau des douanes concerné.\n\n
+            Le présent avis annule et remplace l’Avis au public N° 142-2019/MEF/SG/DG du\n
+            18.06.2019\n\nCet Avis est d’application stricte.\n\n
+            LE DIRECTEUR GENERAL\n\nES-DOUANES\n\n"
